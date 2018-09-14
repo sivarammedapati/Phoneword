@@ -1,2 +1,2 @@
-#!/usr/bin/env bash
-echo $APPCENTER_BRANCH
+#!/bin/bash
+echo "My New App"
