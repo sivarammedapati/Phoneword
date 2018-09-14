@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-Phoneword",
+      "appliesTo": "Phoneword/Phoneword.Android/",
+      "type": "launch"
+    },
+    {
+      "taskName": "task-Phoneword",
+      "appliesTo": "Phoneword/Phoneword.Android/",
+      "type": "launch"
+    }
+  ]
+}
